@@ -1,0 +1,10 @@
+[2022-08-06 18:01:07] listen tcp :3306: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[2022-08-06 18:01:29] listen tcp :3306: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[2022-08-06 18:03:28] listen tcp :3306: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[2022-08-06 18:05:17] listen tcp :3306: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[2022-08-06 18:06:36] listen tcp :3306: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[2022-08-06 18:07:42] listen tcp :3306: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[2022-08-06 18:07:48] listen tcp :3306: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[2022-08-06 18:08:09] listen tcp :3306: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[2022-08-06 18:23:01] listen tcp :3306: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[2022-08-06 18:33:45] listen tcp :3306: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
